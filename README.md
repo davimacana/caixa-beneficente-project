@@ -1,8 +1,7 @@
 # caixa-beneficente-project
 Repositório criado para gerenciar o desenvolvimento da caixa beneficiária
 
-
-https://caixa-beneficente-frontend.herokuapp.com/
+Projeto no heroku: [Caixa beneficente](https://caixa-beneficente-frontend.herokuapp.com/)
 
 Obs.: Heroku tem um limite de conexões com o banco (20). Então, quando atinge esse limite tem que restaurar o banco
 Se quiser entrar como colaborador do projeto no heroku, deixa o email aqui que eu add.
