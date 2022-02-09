@@ -17,3 +17,9 @@ https://github.com/davimacana/caixa-beneficente-project/projects/2
 
 Quadro da homologação:
 https://github.com/davimacana/caixa-beneficente-project/projects/3
+
+
+Links úteis para frontend:
+[ng-bootstrap v10](https://ng-bootstrap.github.io)
+[fontawesome v5](https://fontawesome.com/v5/icons)
+[bootstrap v4](https://getbootstrap.com/docs/4.0/components)
