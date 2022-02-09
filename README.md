@@ -12,7 +12,8 @@ Dúvidas e questionamentos:
 - PREÇO E PLANO PRECISAM MESMO TER UM PERÍODO ? DATA INÍCIO E DATA FIM
 - Depois de criado um preço ele pode ser alterado ? ou deve ser inativado e um novo é criado (Caso possa alterar, poderá ter recibos com mesmo plano e faixa de idade com preços diferentes)
 
-Correções: 
+Correções:
+- Correções gerais do layout
 - Acertar o layout com o span em baixo da data
 
 
